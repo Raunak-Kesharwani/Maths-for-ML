@@ -11,27 +11,25 @@
 ### Phase 0: School-Level Foundations (Revision Layer) 
 
 #### Arithmetic & Pre-Algebra
-o	Numbers: integers, rationals, reals
+o	Numbers: integers, rationals, reals  
+o	Fractions, decimals, percentages  
+o	Exponents, roots, logarithms (very important for ML loss functions)  
 
-o	Fractions, decimals, percentages
-
-o	Exponents, roots, logarithms (very important for ML loss functions)
-
-[chatgpt link]()
-[pdf to download]()
+[chatgpt link]()  
+[pdf to download]()  
 
 #### 2.	Basic Algebra
-o	Linear equations, inequalities
-o	Quadratic equations, polynomials
-o	Functions & graphs (linear, quadratic, exponential, logarithmic)
+o	Linear equations, inequalities  
+o	Quadratic equations, polynomials  
+o	Functions & graphs (linear, quadratic, exponential, logarithmic)  
 
-[chatgpt link]()
-[pdf to download]()
+[chatgpt link]()  
+[pdf to download]()  
 
 #### 3.	Geometry & Trigonometry
-o	Coordinate geometry (points, lines, slopes, distance)
-o	Trigonometric functions (sin, cos, tan), unit circle
-o	Trig identities & transformations (used in Fourier, signals, ML kernels)
+o	Coordinate geometry (points, lines, slopes, distance)  
+o	Trigonometric functions (sin, cos, tan), unit circle  
+o	Trig identities & transformations (used in Fourier, signals, ML kernels)  
 
-[chatgpt link]()
-[pdf to download]()
+[chatgpt link]()  
+[pdf to download]()  
