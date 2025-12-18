@@ -103,6 +103,8 @@ Phase 4: Intermediate Math for ML/Finance
 
 [chatgpt link]()  
 
+### 🤖 Phase 4:  Intermediate Math for ML - Finance
+
 #### 12. Advanced Linear Algebra 
 •	Vector spaces, basis, dimension [chatgpt link](https://chatgpt.com/share/693a31a6-2a18-8001-a4c1-7a0f2b8565b4) 
 •	Orthogonality & projections  
